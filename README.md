@@ -1,4 +1,4 @@
-# nucleo-f429zi-project
+# controller-for-remote-controlled-microscope
 Project with Nucleo-F429ZI<br>
 
 This repository contains the programs I developed to run on a Nucleo-F429ZI board in CSSE3010 (Embedded Systems Design and Interfacing).<br>
